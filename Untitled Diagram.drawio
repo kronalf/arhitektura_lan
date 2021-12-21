@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T07:47:41.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="XS2I0bsIFL4v_AwaJ1BX" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T07:55:13.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="wmTGgustkZ_pndEugfDa" version="15.9.6" type="github">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
     <mxGraphModel dx="2878" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -354,13 +354,13 @@
           <mxGeometry x="180" y="726" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-11" value="HSRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="656" width="50" height="30" as="geometry" />
+          <mxGeometry x="-10" y="691" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-12" value="HSRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="656" width="50" height="30" as="geometry" />
+          <mxGeometry x="190" y="691" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-13" value="HSRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="656" width="50" height="30" as="geometry" />
+          <mxGeometry x="420" y="691" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-14" value="NAT INSIDE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="242" y="44.5" width="70" height="30" as="geometry" />
@@ -432,10 +432,19 @@
           <mxGeometry x="-130" y="375" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-17" value="EIGRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="319.5" y="520" width="50" height="30" as="geometry" />
+          <mxGeometry x="190" y="490" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-18" value="3 этаж БЦ Форум" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="437" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-19" value="EIGRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="646" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-20" value="EIGRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="646" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bwzNWk_gbyNqQ0NpO8AQ-21" value="EIGRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="646" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
